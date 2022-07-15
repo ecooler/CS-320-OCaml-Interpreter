@@ -1,0 +1,13 @@
+Push <error>
+Push <unit>
+Add
+PushI 5
+PushI 100
+Div
+Swap
+PushS "str"
+PushN str
+Mul
+Swap
+Neg
+Quit

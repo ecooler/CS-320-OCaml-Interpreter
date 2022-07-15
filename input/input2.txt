@@ -1,0 +1,6 @@
+PushI 6
+PushI 234
+PushI 3
+Sub
+Div
+Quit

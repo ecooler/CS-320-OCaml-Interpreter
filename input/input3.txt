@@ -1,0 +1,5 @@
+PushB <false>
+Neg
+PushI 100
+Add
+Quit
